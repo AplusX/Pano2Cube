@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\work\pano_to_cube\pano_to_cube\source.cpp(25): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+d:\work\pano_to_cube\pano_to_cube\source.cpp(26): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+d:\work\pano_to_cube\pano_to_cube\source.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\pano_to_cube\pano_to_cube\source.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  pano_to_cube.vcxproj -> D:\work\pano_to_cube\Debug\pano_to_cube.exe
+  pano_to_cube.vcxproj -> D:\work\pano_to_cube\Debug\pano_to_cube.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+Source.cpp(25): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+Source.cpp(26): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+Source.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  6 of 67 functions ( 9.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pano_to_cube.vcxproj -> D:\work\pano_to_cube\x64\Release\pano_to_cube.exe
+  pano_to_cube.vcxproj -> D:\work\pano_to_cube\x64\Release\pano_to_cube.pdb (Full PDB)
